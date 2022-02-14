@@ -12,8 +12,9 @@
   ##
   
 <div>
-  <a href="https://t.me/GUGUHOMEMDELETRAS" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/GUGUHOMEMDELETRAS" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
   <a href = "mailto:gu013533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://play.google.com/store/apps/details?id=com.hunter.net" target="_green"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_green"></a>
 <div>
   
   <div style="display: inline_block"><br>
