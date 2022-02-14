@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Eu sou o Dean Winchester
 
-<!--
-**Dean6767/Dean6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 Atualmente estou estudando diversas coisas...
+- ⚡ Você pode encontrar meu aplicativo na Play Store : Rev Hunter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://beacons.ai/Dean6767">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dean6767&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dean6767&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+  ##
+  
+<div>
+  <a href="https://t.me/GUGUHOMEMDELETRAS" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gu013533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  
+  <div style="display: inline_block"><br>
+      <img align="right" alt="Dean-gif" src="https://media0.giphy.com/media/MWUFcRYVWwBozRYnAG/giphy.gif?cid=790b76111dc7baef161d3a86be2fbd7ae35b9e82eee26a31&rid=giphy.gif&ct=g">
+</div>
