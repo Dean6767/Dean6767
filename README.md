@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Dean Winchester
 
-- 🤔 Atualmente estou estudando diversas coisas...
 - ⚡ Você pode encontrar meu aplicativo na Play Store : Rev Hunter VPN
 
 <div>
