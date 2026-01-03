@@ -1,12 +1,6 @@
 ### Dean Winchester
 
 - ⚡ Você pode encontrar meu aplicativo na Play Store : Rev Hunter VPN
-
-<div>
-  <a href="https://beacons.ai/Dean6767">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dean6767&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dean6767&layout=compact&langs_count=16&theme=dark"/>
-</div>
   
   ##
   
